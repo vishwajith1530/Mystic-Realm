@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f62f96af69be5b458c5a84bf7f17080, type: 3}
+  m_Name: Weapon_Javelin
+  m_EditorClassIdentifier: 
+  id: 2
+  name: Attack Javelin
+  itemType: 0
+  description: A common javelin that villagers use to defend themselves against monsters.
+  propertyList:
+  - propertyType: 4
+    value: 20
+  icon: {fileID: 21300000, guid: 0b97d8b2af7616345913bcee4a3a6d7b, type: 3}
+  prefab: {fileID: 419594480213487122, guid: d5fc5e3df29efad46931af35bc829938, type: 3}
